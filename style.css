@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* ---html¡¢body100%--- */
+html, body {
+}
+/* ---Ä¬ÈÏ×ÖÌå9pt--- */
+div, table {
+	font-size: 12px;
+}
+/* ---div¾ÓÖÐ¡¢div±³¾°--- */
+li {
+	list-style:none;}
+	* {
+	padding:0;
+	margin:0;
+}
+body, td, th, div, input, ul, li {
+	font-family:"Î¢ÈíÑÅºÚ", "ËÎÌå";
+	font-size: 12px;
+	color: #333333;
+}
+p {
+	line-height:150%;
+}
+
+a {
+	color:#616161;}
+a:link {
+	
+	text-decoration: none;
+}
+a:visited {
+	
+	text-decoration: none;
+}
+a:hover {
+
+      	text-decoration: none;
+}
+a:active {
+	
+	text-decoration: none;
+}
+h1 {
+	
+	line-height:150%;
+	font-size:24px;
+}
+
+body {
+	background-color: #bfbfbf;
+	font-size: 12px;
+	color:#333;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+table {
+	font-size: 12px;
+}
+#bg {
+	background:#fff;
+	background: url(../images/2_02.jpg) repeat-x  top #fff;
+	margin-left:auto;
+	margin-right:auto;
+	height:auto;
+	min-height:400px;
+	_height:400px;
+}
+#dev7link {
+    position:absolute;
+    top:0;
+    left:50px;
+    background:url(images/dev7logo.png) no-repeat;
+    width:980px;
+    height:198px;
+    border:0;
+    display:block;
+    text-indent:-9999px;
+}
+
+.theme-default #slider {
+    margin:0 auto 0 auto;
+    width:980px; /* Make sure your images are the same size */
+    height:198px; /* Make sure your images are the same size */
+}
