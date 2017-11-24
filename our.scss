@@ -1,0 +1,76 @@
+$width: 980px;
+
+.sidePic {
+  width: $width;
+  margin: 0 auto;
+  img {
+    margin: 15px 2px 0px 0;
+    float: left;
+    width: ($width/6)-2;
+    height: 48px;
+  }
+}
+
+/*内容区域*/
+.mn_left {
+  width: 980px;
+  position: relative;
+}
+
+.ml1 {
+  width: $width;
+}
+
+/*左侧*/
+.ml1_1, .ml1_1title, p {
+  position: relative;
+  width: 471px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  span {
+    padding-left: 12px;
+  }
+}
+
+/*左右侧上方的横线*/
+.main1box::before{
+  position: absolute;
+  top: 30px;
+  content: "";
+  width: 471px;
+  height: 1px;
+  background-color: #379CA4;
+}
+
+.ml1_1title {
+  color: #066A72;
+}
+
+/*右侧*/
+.ml1_2, #tabs1 {
+  width: 471px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  p {
+    width: 460px;
+  }
+}
+
+.ml2 img{
+  display: block;
+  width: 980px;
+  height: 76px;
+}
+
+/*icon*/
+p::before{
+  content:url("./images/icon1.png");
+  margin-right: 5px;
+}
+
+/*icon的margin*/
+.qh p{
+  padding-left: 7px;
+}
