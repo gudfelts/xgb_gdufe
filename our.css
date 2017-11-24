@@ -1,7 +1,11 @@
 @charset "UTF-8";
 .sidePic {
   width: 980px;
-  margin: 0 auto; }
+  margin: 0 auto;
+  margin-top: 130px;
+  margin-bottom: 20px;
+
+}
   .sidePic img {
     margin: 15px 2px 0px 0;
     float: left;

@@ -6,7 +6,7 @@
 	margin-left:auto;
 	margin-right:auto;
 	background: url(./images/top_pic05.jpg) no-repeat;
-	height:311px;}
+	height:250px;}
 .top1{
 	width:980px;
 	padding-top:8px;
@@ -25,20 +25,21 @@
 	padding-left:10px;}
 .top1_3{
 	float:right;
-	width:338px;
-	height:47px;
+	width:400px;
+	height:50px;
+	margin-top: 15px;
 	}
 .top1_3 li{
 	line-height:47px;
 	float:left;}
 .top1_3 li a{
+	font-size: 18px;
 	color:#fff;}
 .sr{
 	background:#066a72;
 	height:20px;
 	float:left;
 	width:120px;
-	_width:120px;
 	border:0px;
   	line-height:20px;
   color:#FFF;
@@ -50,11 +51,13 @@
 	height:20px;
 	float:right;}
 .banner{
-	margin-top:10px;}
+	margin-top:25px;
+	background-color:#015B5B;
+}
 
 .periodical_img {
-	height:27px;
-	line-height:27px;
+	height:60px;
+	line-height:60px;
 	width:98px;
 	text-align:center;
 	float:left;
@@ -75,7 +78,7 @@ color:#fff;
 
 .periodical_img a {
 	color:#fff;
-	font-size:12px;
+	font-size:16px;
 	font-weight:bold;
 }
 .periodical_img_on {
@@ -92,6 +95,8 @@ color:#fff;
 	color:#066a72;
 }
 .dt{
-	margin-top:10px;
+	margin-top:5px;
 	margin-left:auto;
-	margin-right:auto;}
+	margin-right:auto;
+}
+
