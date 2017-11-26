@@ -1,0 +1,72 @@
+@charset "UTF-8";
+.sidePic {
+  width: 980px;
+  margin: 0 auto;
+  margin-top: 130px;
+  margin-bottom: 20px;
+
+}
+  .sidePic img {
+    margin: 15px 2px 0px 0;
+    float: left;
+    width: 161.33333px;
+    height: 48px; }
+
+/*内容区域*/
+.mn_left {
+  width: 980px;
+  position: relative; }
+
+.ml1 {
+  width: 980px; }
+
+/*左侧*/
+.ml1_1, .ml1_1title, p {
+  position: relative;
+  width: 471px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap; }
+  .ml1_1 span, .ml1_1title span, p span {
+    padding-left: 12px; }
+
+/*左右侧上方的横线*/
+.main1box::before {
+  position: absolute;
+  top: 30px;
+  content: "";
+  width: 471px;
+  height: 1px;
+  background-color: #379CA4; }
+
+.ml1_1title {
+  color: #066A72; }
+
+/*右侧*/
+.ml1_2, #tabs1 {
+  width: 471px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap; }
+  .ml1_2 p, #tabs1 p {
+    width: 460px; }
+
+.ml2 img {
+  display: block;
+  width: 980px;
+  height: 76px; }
+
+/*icon*/
+p::before {
+  content: url("./images/icon1.png");
+  margin-right: 5px; }
+
+/*icon的margin*/
+.qh p {
+  padding-left: 7px; }
+
+
+/*# sourceMappingURL=our.css.map */
+
+
+
