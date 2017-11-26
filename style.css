@@ -1,14 +1,14 @@
 @charset "utf-8";
 /* CSS Document */
 
-/* ---html¡¢body100%--- */
+/* ---htmlï¿½ï¿½body100%--- */
 html, body {
 }
-/* ---Ä¬ÈÏ×ÖÌå9pt--- */
+/* ---Ä¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½9pt--- */
 div, table {
 	font-size: 12px;
 }
-/* ---div¾ÓÖÐ¡¢div±³¾°--- */
+/* ---divï¿½ï¿½ï¿½Ð¡ï¿½divï¿½ï¿½ï¿½ï¿½--- */
 li {
 	list-style:none;}
 	* {
@@ -16,7 +16,7 @@ li {
 	margin:0;
 }
 body, td, th, div, input, ul, li {
-	font-family:"Î¢ÈíÑÅºÚ", "ËÎÌå";
+	font-family:"Î¢ï¿½ï¿½ï¿½Åºï¿½", "ï¿½ï¿½ï¿½ï¿½";
 	font-size: 12px;
 	color: #333333;
 }
