@@ -1,0 +1,26 @@
+.sidePic{
+
+    width: 980px;
+    margin: 0 auto;
+    margin-right: 180px;
+    margin-top: 60px
+
+}
+
+.mr5{
+    display: inline-block;
+    margin-right: 35px;
+    margin-left: 10px;
+}
+
+.banner{
+    margin-top: 45px;
+    background-color: #066a72;
+}
+
+.ml2 img{
+    width: 980px;
+}
+
+
+
