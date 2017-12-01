@@ -1,7 +1,7 @@
 
 .banner{
     margin-top: 45px;
-    background-color: #066a72;
+    background-color: #0f7c56;
 }
 
 .ml2 img{
@@ -9,8 +9,56 @@
 }
 
 .ml2{
-    margin-left: -210px;
+    margin-left: -220px;
+    margin-top: 20px;
+  
 }
+
+.ml1_1{
+
+    width: 360px;
+
+}
+
+.ml1_1title{
+    width: 350px;
+    border-bottom: 1px solid black;
+}
+
+#menu1 li.hover{
+    color: black;
+}
+
+#main1{
+    height: 260px;
+    overflow: hidden;
+}
+
+
+
+.ml1_2{
+    width: 363px;
+}
+
+#tabs1{
+    width: 360px;
+}
+
+.menu1box{
+    width:365px;
+    border-bottom: 1px solid black;
+}
+
+.qh{
+    width: 400px;
+}
+
+.qh p{
+    width: 360px;
+    padding-left: 10px;
+}
+
+
 
 .mn_right{
     float:left;
@@ -31,5 +79,10 @@
     margin-left: 22px;
 
 }
+
+.footer{
+    background:#0ba36e;
+}
+
 
 
